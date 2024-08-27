@@ -102,10 +102,7 @@ func main() {
 
 	firstArgument := arguments[0]
 	secondArgument := arguments[1]
-
-	fmt.Println(firstArgument)
-	fmt.Println(secondArgument)
-
+	
 	var a, b int
 	var isRoman bool
 
